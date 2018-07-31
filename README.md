@@ -1,4 +1,4 @@
-# US Shark Attacks
+# US Shark Attacks, Land Temperature Anomalies, and Population Sizes.
 Python project examining the relationship between shark attacks, population size, and temperature changes in the United States from 1960-2017.
 
 
