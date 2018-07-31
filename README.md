@@ -4,12 +4,12 @@ Python project examining the relationship between shark attacks, population size
 
 
 # Content
-### [Data Preproccessing + EDA]()
+### [Data Preproccessing + EDA](https://github.com/adambens/US_Shark_Attacks_Analysis/blob/master/Data%20Cleaning%20%2B%20Exploratory%20Analysis.ipynb)
 Retreiving and cleaning data from three sources to combine into one pandas DataFrame for statistical analyses. 
 
-<img width="500" alt="img1" src="./Figures/Attacks-Temps.png">
+<img width="700" alt="img1" src="./Figures/Attacks-Temps.png">
 
-### [Statistical Analysis]()
+### [Statistical Analysis](https://github.com/adambens/US_Shark_Attacks_Analysis/blob/master/Statistical%20Analysis.ipynb)
 Performing statistical analyses on the data to determine relationships between the number of shark attacks, total population size, and land temperature anomalies.
 
-<img width="500" alt="img1" src="./Figures/KDEAttacksTemps.png">
+<img width="700" alt="img1" src="./Figures/KDEAttacksTemps.png">
